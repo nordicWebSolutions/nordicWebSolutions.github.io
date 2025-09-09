@@ -1,1 +1,0 @@
-# nordicWebSolution.github.io
