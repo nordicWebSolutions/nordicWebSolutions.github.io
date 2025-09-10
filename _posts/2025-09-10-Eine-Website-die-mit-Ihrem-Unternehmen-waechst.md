@@ -5,7 +5,6 @@ date: 2025-09-10 10:00:00 +0100
 categories: [blog, start]
 ---
 
-# Eine Website, die mit Ihrem Unternehmen wächst  
 
 Wir stehen gerade vor der spannenden Aufgabe, eine komplett neue Website zu entwickeln. Der Kunde hat klare Wünsche: Inhalte sollen leicht selbst bearbeitet werden können, das Aussehen und die Technik der Seite sollen unabhängig vom Inhalt bleiben, und Bausteine sollen mehrfach nutzbar sein – damit die Seite später problemlos erweitert werden kann.  
 
