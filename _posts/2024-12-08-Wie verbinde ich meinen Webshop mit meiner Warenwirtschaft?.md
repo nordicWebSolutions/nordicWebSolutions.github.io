@@ -1,4 +1,4 @@
-# Wie verbinde ich meinen Webshop mit meiner Warenwirtschaft?
+
 
 ## Ausgangssituation
 Unser Kunde betreibt einen **Webshop auf Basis von WooCommerce und WordPress** sowie eine **individuell entwickelte Warenwirtschaft (Wawi)**. Durch den stark gestiegenen Umsatz im Webshop ist die manuelle Pflege der Daten nicht mehr effizient. Der Kunde möchte seine Prozesse automatisieren, um folgende Ziele zu erreichen:
